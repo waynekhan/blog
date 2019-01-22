@@ -4,28 +4,13 @@ title: Docker Cheatsheet
 permalink: /docker-cheatsheet
 ---
 
-This is my own cheatsheet to using Docker, your mileage will vary.
+I developed this document as part of my new [GitHub Pages blog](https://github.com/waynekhan/waynekhan.github.io/deployments). It's is my personal cheatsheet to using Docker, your mileage will vary.
 
-I got a lot of value from [this Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/): it consists of 8 hours of video, across 13 sections, it provides a lot more context than I bothered below.
+I got a lot of value from [this paid Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/). Midway through, I realized that it was relatively easy to containerize the entire blog, and [so I did](https://cloud.docker.com/repository/docker/waynekhan/waynekhan.github.io).
 
-## Builds
+# Registries
 
-{% gist 3a555116a44fadbb4d61ff1f37edf71e %}
-
-Build the `alpython` image using the above `Dockerfile`:
-
-    $ docker build -q -t alpython:0.1 .
-    sha256:80df45761397e7391ddfa50903fab79b09b0ab398feb6fd9f67663bf1e7bdf83
-    $ docker run -it --rm alpython
-    .
-    .
-    .
-    >>> print "hi"
-    hi
-
-## Images
-
-Pull alpine off [Docker Hub](https://hub.docker.com/):
+Pull `alpine` off [Docker Hub](https://hub.docker.com/):
 
     $ docker pull alpine:latest
     latest: Pulling from library/alpine
@@ -40,9 +25,45 @@ Search for a named image:
 
     $ docker search mysql
     NAME                                   DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
-    alpine                                 A minimal Docker image based on Alpine Linux…   4844                [OK]                
+    alpine                                 A minimal Docker image based on Alpine Linux…   4844                [OK]
 
-List local images:
+Use `registry` to host a private registry:
+
+    $ docker run -d -p 5000:5000 --restart=always --name private-registry registry
+
+Tag, push, and pull `alpine` to `private-registry`:
+
+    $ docker tag alpine localhost:5000/waynekhan/alpine
+    $ docker push localhost:5000/waynekhan/alpine
+    The push refers to repository [localhost:5000/waynekhan/alpine]
+    7bff100f35cb: Pushed
+    latest: digest: sha256:3d2e482b82608d153a374df3357c0291589a61cc194ec4a9ca2381073a17f58e size: 528
+    $ docker images | grep alpine
+    alpine                            latest              3f53bb00af94        4 weeks ago         4.41MB
+    localhost:5000/waynekhan/alpine   latest              3f53bb00af94        4 weeks ago         4.41MB
+    $ docker run -it --rm localhost:5000/waynekhan/alpine
+    # exit
+
+# Builds
+
+{% gist 3a555116a44fadbb4d61ff1f37edf71e %}
+
+Build the `alpython` image using the above `Dockerfile`:
+
+    $ docker build -q -t alpython:0.1 .
+    sha256:80df45761397e7391ddfa50903fab79b09b0ab398feb6fd9f67663bf1e7bdf83
+    $ docker run -it --rm alpython
+    .
+    .
+    .
+    >>> print "hi"
+    hi
+
+[ONBUILD](https://docs.docker.com/engine/reference/builder/#onbuild), useful when developing a parent `Dockerfile`.
+
+# Images
+
+List (local) images:
 
     $ docker images
     REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
@@ -97,7 +118,7 @@ Save a container as an image, including any envvars:
     foo=bar
     HOME=/root
 
-## Containers
+# Containers
 
 Create a non-running container:
 
@@ -315,7 +336,7 @@ Prune stopped containers:
 
     $ docker container prune
 
-## Networks
+# Networks
 
 https://docs.docker.com/network/
 
@@ -430,7 +451,7 @@ Expose a container port to other containers only:
     FOO_NAME=/bar/foo
     HOME=/root    
 
-## Bind mounts
+# Bind mounts
 
 https://docs.docker.com/storage/bind-mounts/
 
@@ -441,7 +462,7 @@ Mount the host's working directory as `/mnt` in a container:
     Desktop        Library        Pictures
     Documents      Movies         Public
 
-## Volumes
+# Volumes
 
 https://docs.docker.com/storage/volumes/
 
@@ -484,7 +505,7 @@ Remove a volume:
     $ docker volume rm 9308fe3116b64e1733d9601c3f06deb41b852d86a203a70927c9477cf00a4d21
     9308fe3116b64e1733d9601c3f06deb41b852d86a203a70927c9477cf00a4d21
 
-## Constraints
+# Constraints
 
 https://docs.docker.com/config/containers/resource_constraints/
 

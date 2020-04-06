@@ -1,14 +1,12 @@
 ---
 layout: default
 title: About
-permalink: /about
+permalink: /about-wayne
 ---
 
-# About Wayne
-
-Elsewhere on the internet:
+Elsewhere on the 'net:
 
 * <solitrestless@gmail.com>
 * [GitHub](https://github.com/waynekhan/)
 * [LinkedIn](https://www.linkedin.com/in/waynekhan/)
-* [WordPress (deprecated)](https://kzhiwei.wordpress.com/)
+* [(deprecated) WordPress](https://kzhiwei.wordpress.com/)

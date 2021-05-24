@@ -9,7 +9,7 @@ I recently [built a PC](https://waynekhan.github.io/2020/05/19/build-a-pc.html) 
 
 Instead, I've I've been using Ubuntu as my daily driver and it's worked well up until I added an [ASUS USB Wi-Fi adaptor](https://www.asus.com/sg/networking-iot-servers/adapters/all-series/usb-ac53-nano/). So what is it, anyway?
 
-```bash
+```text
 $ lsusb | grep -i asus
 Bus 005 Device 002: ID 0b05:184c ASUSTek Computer, Inc. 802.11ac NIC
 ```
@@ -26,7 +26,7 @@ And of course, the repo (and author) itself:
 
 And as a note-to-self:
 
-```bash
+```text
 sudo apt-get update
 sudo apt-get install build-essential dkms git
 git clone https://github.com/cilynx/rtl88x2bu
@@ -38,3 +38,4 @@ sudo dkms build -m rtl88x2bu -v ${VER}
 sudo dkms install -m rtl88x2bu -v ${VER}
 sudo modprobe 88x2bu
 ```
+

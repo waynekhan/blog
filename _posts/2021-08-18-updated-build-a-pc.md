@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Build a PC (with peripherals)
+title: Updated: Build a PC
 ---
 
-## Build a PC (with peripherals)
+## Updated: Build a PC
 
 Last year, around the start of the pandemic, [I built a PC for myself](/2020/05/19/build-a-pc.html).
 

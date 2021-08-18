@@ -22,9 +22,8 @@ The total cost went up, now it's exactly SGD 2297 (previously: 1297.10):
 |SSD         |Samsung SSD 970 EVO Plus (500 GB)               |199   |
 |Power Supply|Corsair VS650 80 PLUS                           |92    |
 |Case        |Cooler Master Silencio S600                     |134.10|
+|Bluetooth   |UGREEN Bluetooth Adaptor                        |8.95  |
 |Keyboard    |Razer Cynosa Chroma                             |74.9  |
 |Monitor     |Dell 34 Curved USB-C Monitor - P3421W           |746.56|
 |Mouse       |Logitech MX Master 2S                           |89    |
 |Webcam      |Logitech B525 HD                                |80.49 |
-|Bluetooth   |UGREEN Bluetooth Adaptor                        |8.95  |
-

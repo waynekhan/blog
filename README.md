@@ -8,7 +8,7 @@ Hello, thanks for visiting! You may want to check out some of my content, or [ge
 
 ## Posts
 
-{% for post in site.posts %}
+{% for post in site.posts limit:50 %}
   [{{ post.title }}]({{ post.url }})
 {% endfor %}
 

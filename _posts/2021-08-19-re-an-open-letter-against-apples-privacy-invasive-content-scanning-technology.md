@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Re: An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology
+title: "Re: An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology"
 ---
 
 ## Re: An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology

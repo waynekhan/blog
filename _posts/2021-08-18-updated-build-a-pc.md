@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Updated: Build a PC
+title: "Updated: Build a PC"
 ---
 
 ## Updated: Build a PC

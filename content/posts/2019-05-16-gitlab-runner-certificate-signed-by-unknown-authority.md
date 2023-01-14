@@ -44,4 +44,3 @@ NB: Not saying that this is a good practice, merely a workaround.
 ## References
 
 * [https://gitlab.com/gitlab-org/gitlab-runner/issues/2795](https://gitlab.com/gitlab-org/gitlab-runner/issues/2795)
-

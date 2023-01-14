@@ -34,4 +34,3 @@ Mac Mini, from SGD 979.
 13" MacBook Pro, from SGD 1849:
 
 ![MacBook Pro](/2020-11-11-macbook-pro-overview.png)
-

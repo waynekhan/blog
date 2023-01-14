@@ -55,4 +55,3 @@ Carefully inspect the output of `systemctl status kubelet`. If you're seeing a `
 * [https://training.linuxfoundation.org/training/kubernetes-fundamentals/](https://training.linuxfoundation.org/training/kubernetes-fundamentals/)
 * [https://www.manning.com/books/kubernetes-in-action](https://www.manning.com/books/kubernetes-in-action)
 * [http://shop.oreilly.com/product/0636920064947.do](http://shop.oreilly.com/product/0636920064947.do)
-

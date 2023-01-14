@@ -24,4 +24,3 @@ YouTube video: [https://www.youtube.com/watch?v=b13xnFp_LJs](https://www.youtube
 [01:13] New sensor to take blood oxygen measurements in 15 seconds.
 
 [01:11] New Apple Watch Series 6: Multiple new colours (e.g., red).
-

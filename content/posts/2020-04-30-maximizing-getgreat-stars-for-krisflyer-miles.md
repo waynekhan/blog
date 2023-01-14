@@ -62,4 +62,3 @@ Some worked examples to clear out any lingering doubts:
 * At between levels 82 through 91, leveling up 4 times (3,600 experience) is sufficent; i.e.,  775+(60*4) = __1,015 stars__.
 
 And of course, all unredeemed star points are forfeit come the next month.
-

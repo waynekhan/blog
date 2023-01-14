@@ -55,4 +55,3 @@ TLDR: Apple saved their big ARM macOS announcement for the end, dwarfing the res
 PS: I've skipped over tvOS and Homekit:
 
 ![Doesnt Look Like Anything To Me Westworld GIF](https://media.tenor.com/unFf-IWvWuEAAAAC/doesnt-look-like-anything-to-me-westworld.gif)
-

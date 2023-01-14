@@ -25,4 +25,3 @@ The total cost went up, now it's exactly SGD 2297 (previously: 1297.10):
 |Monitor     |Dell 34 Curved USB-C Monitor - P3421W           |746.56|
 |Mouse       |Logitech MX Master 2S                           |89    |
 |Webcam      |Logitech B525 HD                                |80.49 |
-

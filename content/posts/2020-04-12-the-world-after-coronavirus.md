@@ -16,4 +16,3 @@ Clearly, a much smarter person that I, so I just wanted to highlight a couple of
 > Humanity needs to make a choice. Will we travel down the route of disunity, or will we adopt the path of global solidarity? If we choose disunity, this will not only prolong the crisis, but will probably result in even worse catastrophes in the future. If we choose global solidarity, it will be a victory not only against the coronavirus, but against all future epidemics and crises that might assail humankind in the 21st century.
 
 PS: [Pocket](https://getpocket.com/) tells me that this article is a "Best Of", and I hardly see this metadata tag, and I save a ton of articles.
-

@@ -12,4 +12,3 @@ I'm going to extract the bits that stuck with me, although [the full article](ht
 > "Questions are places in your mind where answers fit. If you haven't asked the question, the answer has nowhere to go. It hits your mind and bounces right off. You have to ask the question — you have to want to know — in order to open up the space for the answer to fit."
 
 Wow. I guess with experience over time, that's easy to figure out. But to have Prof. Christensen explain it that way... it sticks.
-

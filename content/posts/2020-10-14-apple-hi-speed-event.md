@@ -68,4 +68,3 @@ YouTube video: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.youtube
 * Starting from USD 1099.
 
 ![iPhones 2020 pricing](/2020-10-14-iphones-2020-pricing.png)
-

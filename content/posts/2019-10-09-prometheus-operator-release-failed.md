@@ -21,4 +21,3 @@ The workaround for this, as Github user `cu12` has so kindly pointed out, is to 
 ## References
 
 - [https://github.com/helm/helm/issues/6130#issuecomment-537829666](https://github.com/helm/helm/issues/6130#issuecomment-537829666)
-

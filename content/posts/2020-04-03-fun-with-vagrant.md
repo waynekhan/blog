@@ -37,4 +37,3 @@ $ cat Vagrantfile
     php -v
   SHELL
 ```
-

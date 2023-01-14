@@ -12,4 +12,3 @@ Conveniently, it can be installed using `sudo snap install pdftk`. I wanted to c
 ```text
 $ pdftk foo.pdf cat 39-43 46-47 50 output bar.pdf
 ```
-

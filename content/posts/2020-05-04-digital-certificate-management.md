@@ -42,4 +42,3 @@ cat certalone.pem interm.pem > fullchain.pem
 ```
 
 Subsequently, use `privkey.pem` and `fullchain.pem` in your web server config.
-

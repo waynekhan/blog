@@ -711,4 +711,3 @@ Running `alpine` as `nobody:nobody`:
 $ docker run -it --entrypoint "id" --user nobody:nobody alpine
 uid=65534(nobody) gid=65534(nobody)
 ```
-

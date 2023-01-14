@@ -31,4 +31,3 @@ I read [What dark secret is in the Singapore basement?](https://www.straitstimes
 > But not everyone is happy with this state of affairs. There are those who cannot stand the injustice and leave the city.
 
 This story has stuck with me ever since, just like how I hope these pilot standards stick around.
-

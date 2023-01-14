@@ -10,4 +10,3 @@ Now I want to use `pdftk` to combine two PDFs into a single file in order to sup
 ```text
 pdftk A=foo.pdf B=bar.pdf cat A1 B3 output baz.pdf
 ```
-

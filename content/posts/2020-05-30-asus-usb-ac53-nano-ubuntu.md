@@ -3,7 +3,7 @@ title: Getting an ASUS USB-AC53 Nano working on Ubuntu 20.04
 date: 2020-05-30T00:00:00+00:00
 ---
 
-I recently [built a PC](/2020/05/19/build-a-pc.html) for myself, and refused to pay the $200 or so to also get a Windows 10 license.
+I recently [built a PC]({{<ref "2020-05-19-build-a-pc" >}}) for myself, and refused to pay the $200 or so to also get a Windows 10 license.
 
 Instead, I've I've been using Ubuntu as my daily driver and it's worked well up until I added an [ASUS USB Wi-Fi adaptor](https://www.asus.com/sg/networking-iot-servers/adapters/all-series/usb-ac53-nano/). So what is it, anyway?
 

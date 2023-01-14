@@ -1,6 +1,6 @@
 baseURL: https://blog.waynekhan.net/
 languageCode: en-us
-theme: LoveIt
+theme: loveit
 
 params:
   app:

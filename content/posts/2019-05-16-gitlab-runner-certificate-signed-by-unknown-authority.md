@@ -1,6 +1,6 @@
 ---
 title: GitLab Runner certificate signed by unknown authority
-date: 2020-10-14T00:00:00+00:00
+date: 2019-05-14T00:00:00+00:00
 ---
 
 Recently I've been working w/ [GitLab Runners](https://docs.gitlab.com/runner/), starting with Shell Executor before moving on to Docker.
@@ -44,4 +44,3 @@ NB: Not saying that this is a good practice, merely a workaround.
 ## References
 
 * [https://gitlab.com/gitlab-org/gitlab-runner/issues/2795](https://gitlab.com/gitlab-org/gitlab-runner/issues/2795)
-

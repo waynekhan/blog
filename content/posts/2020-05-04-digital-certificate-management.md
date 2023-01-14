@@ -3,7 +3,7 @@ title: Digital Certificate Management
 date: 2019-08-01T00:00:00+00:00
 ---
 
-Previously, I wrote a blog post about [using the OpenSSL CLI tool to generate digital certificates](/2019/08/01/openssl-x509.html). Since then, I've refined things a bit on my end, and here's the update, please consider the old post deprecated.
+Previously, I wrote a blog post about [using the OpenSSL CLI tool to generate digital certificates]({{<ref "2019-08-01-openssl-x509" >}}). Since then, I've refined things a bit on my end, and here's the update, please consider the old post deprecated.
 
 First of all, we'll need a private key file; e.g., `privkey.pem`:
 
@@ -42,4 +42,3 @@ cat certalone.pem interm.pem > fullchain.pem
 ```
 
 Subsequently, use `privkey.pem` and `fullchain.pem` in your web server config.
-

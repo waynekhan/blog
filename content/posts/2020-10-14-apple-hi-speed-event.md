@@ -7,7 +7,7 @@ YouTube video: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.youtube
 
 ## HomePod Mini
 
-![HomePod Mini](/homepod-mini.png)
+![HomePod Mini](/2020-10-14-homepod-mini.png)
 
 * Amazing sound, but I can't describe it with any technical depth.
 * [S5 processor](https://en.wikipedia.org/wiki/Apple-designed_processors#Apple_S5), the same one used in Watch Series 5 and SE, for "computation audio"; e.g., optimize loudness, adjust dynamic range, and control the movement of its own internals.
@@ -21,7 +21,7 @@ YouTube video: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.youtube
 
 ## iPhone 12
 
-![iPhone 12](/iphone-12.png)
+![iPhone 12](/2020-10-14-iphone-12.png)
 
 * [5G cellular connectivity](https://en.wikipedia.org/wiki/5G).
 * New design with flat sides, and in 5 colours (black, white, red, green, blue).
@@ -30,7 +30,7 @@ YouTube video: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.youtube
 * "Ceramic Shield", 4x better drop performance.
 * "Smart Data Mode": step up/down between LTE/5G.
 
-![A14 Bionic](/a14-bionic.png)
+![A14 Bionic](/2020-10-14-a14-bionic.png)
 
 * [A14 Bionic processor](https://en.wikipedia.org/wiki/Apple-designed_processors#Apple_A14_Bionic): 6-core CPU, 4-core GPU, 16-core "Neural Engine".
 * Dual-camera system: ultra wide, and wide lenses.
@@ -48,7 +48,7 @@ YouTube video: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.youtube
 
 ## iPhone 12 Pro
 
-![iPhone 12 Pro](/iphone-12-pro.png)
+![iPhone 12 Pro](/2020-10-14-iphone-12-pro.png)
 
 * Surgical-grade stainless steel for the bands.
 * 4 colours (silver, graphite, gold, blue).
@@ -67,5 +67,5 @@ YouTube video: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.youtube
 * LiDAR scanner for AR, autofocus accuracy and reduced capture time. [Ed: It might even improve Portrait shots, too.]
 * Starting from USD 1099.
 
-![iPhones 2020 pricing](/iphones-2020-pricing.png)
+![iPhones 2020 pricing](/2020-10-14-iphones-2020-pricing.png)
 

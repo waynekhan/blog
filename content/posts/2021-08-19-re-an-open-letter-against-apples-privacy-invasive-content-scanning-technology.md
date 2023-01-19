@@ -3,6 +3,8 @@ title: "RE: An open letter gainst Apple's privacy-invasive content-scanning tech
 date: 2021-08-19T00:00:00+00:00
 ---
 
+![An Apple fanboy in the style of Vincent van Gogh](/2023-01-19-apple-fanboy-in-the-style-of-vincent-van-gogh.png)
+
 I've been an Apple fanboy since the 2010s or so. It's not that long a time a time, but I've always loved my Macs, iPhones, and iWatches.
 
 But I feel like in recent times the Apple I thought I knew (and loved) has changed, and not in a way I'd like. It begun with their App Store, and how their policies have hurt all parties -- developers, users, themselves even in this ecosystem. Most recently, it's been their planned [Expanded Protections for Children](https://www.apple.com/child-safety/) features. To be clear, CSAM - Child Sexual Abuse Material scanning in iCloud Photos currently applies in the United States and not Singapore. And the very idea of CSAM as a thing, it's abhorent.

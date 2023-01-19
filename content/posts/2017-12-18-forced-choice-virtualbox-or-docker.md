@@ -1,5 +1,5 @@
 ---
-title: "Forced choice (VirtualBox, or Docker)"
+title: Forced choice (VirtualBox, or Docker)
 date: 2017-12-18T06:01:38+00:00
 ---
 

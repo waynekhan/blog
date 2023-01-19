@@ -1,5 +1,5 @@
 ---
-title: "Late as a Cygwin user..."
+title: Late as a Cygwin user...
 date: 2017-06-13T01:23:15+00:00
 ---
 

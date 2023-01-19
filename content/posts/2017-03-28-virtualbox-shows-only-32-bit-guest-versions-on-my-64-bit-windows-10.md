@@ -1,5 +1,5 @@
 ---
-title: "VirtualBox shows only 32-bit guest versions on my (64-bit) Windows 10?"
+title: VirtualBox shows only 32-bit guest versions on my (64-bit) Windows 10?
 date: 2017-03-28T08:23:30+00:00
 ---
 

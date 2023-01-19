@@ -1,5 +1,5 @@
 ---
-title: "Apple Special Event"
+title: Apple Special Event
 date: 2017-09-12T18:55:38+00:00
 ---
 
@@ -8,6 +8,7 @@ Apple Park, it starts with the first event held today at the Steve Jobs Theatre.
 Today at Apple, it seems to be huge. I can't attest to this though, haven't been at the Orchard Road one.
 
 ## Apple Watch
+
 No. 1 apparently, leapfrogging Rolex. New heart rate metrics (e.g., resting heart rate, recovery rate) in watchOS 4.
 
 Next generation Watch, series 3. Built-in cellular connectivity (eSIM), so you can remain connected whilst away from the phone.

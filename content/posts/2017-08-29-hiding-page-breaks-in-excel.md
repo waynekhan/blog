@@ -1,5 +1,5 @@
 ---
-title: "Hiding page breaks in Excel"
+title: Hiding page breaks in Excel
 date: 2017-08-29T10:27:35+00:00
 ---
 

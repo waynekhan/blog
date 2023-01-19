@@ -1,5 +1,5 @@
 ---
-title: "Display bug in VMware vSphere Client"
+title: Display bug in VMware vSphere Client
 date: 2017-07-20T10:40:07+00:00
 ---
 

@@ -1,10 +1,11 @@
 baseURL: https://blog.waynekhan.net/
 languageCode: en-us
+title: Wayne writes
 theme: loveit
 
 params:
   app:
-    title: Wayne's writing
+    title: Wayne writes
 
   footer:
     hugo: false
@@ -12,7 +13,7 @@ params:
 
   header:
     title:
-      name: Wayne's writing
+      name: Wayne writes
 
   home:
     profile:
@@ -27,5 +28,5 @@ params:
     GitHub: waynekhan
     Linkedin: waynekhan
 
-  title: Wayne's words
-  description: Wayne writes, mostly to himself.
+  title: Wayne writes
+  description: I create (and update) posts occasionally, mostly for myself then

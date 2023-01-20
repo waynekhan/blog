@@ -6,9 +6,10 @@ theme: loveit
 params:
   app:
     title: Wayne writes
+    noFavicon: true
 
   footer:
-    hugo: false
+    hugo: False
     since: 2008
 
   header:
@@ -20,9 +21,9 @@ params:
       subtitle: Hello, World!
 
   page:
-    rssFullText: true
+    rssFullText: True
     share:
-      enable: false
+      enable: False
 
   social:
     GitHub: waynekhan

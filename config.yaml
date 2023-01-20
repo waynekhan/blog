@@ -8,7 +8,7 @@ params:
 
   footer:
     hugo: false
-    since: 2006
+    since: 2008
 
   header:
     title:

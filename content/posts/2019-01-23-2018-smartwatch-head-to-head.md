@@ -21,20 +21,20 @@ I paired the devices to a different iPhone 8 running an up-to-date version of iO
 
 Following is a curated list of device specifications:
 
-||2018 Apple Watch Nike+ Series 4 (44 mm)                |Withings Steel HR Sport (40 mm)
-|--------------------------|-----------------------------|-----------------------------------|
-|Maker                     |Apple                        |Withings
-|Release date              |2018                         |2018
-|Price (USD)               |429                          |199.95
-|Face shape                |Rounded rectangle            |Circle
-|Display                   |Digital                      |Mostly analog
-|Case material             |Aluminum/Glass               |Stainless steel/Glass
-|Band material             |Fluoroelastomer              |Silicone
-|Dimensions                |44 mm (44 mm x 38 mm 10.7 mm)|40 mm (39.5 mm x 39.5 mm x 12.5 mm)
-|Weight                    |36.7g                        |49g
-|Battery life              |Up to 18 hours               |Up to 25 days
-|Water resistance          |50 m                         |50 m
-|Steps tracking            |Continuous                   |Continuous
+|                |2018 Apple Watch Nike+ Series 4 (44 mm)|Withings Steel HR Sport (40 mm)    |
+|----------------|---------------------------------------|-----------------------------------|
+|Maker           |Apple                                  |Withings                           |
+|Release date    |2018                                   |2018                               |
+|Price (USD)     |429                                    |199.95                             |
+|Face shape      |Rounded rectangle                      |Circle                             |
+|Display         |Digital                                |Mostly analog                      |
+|Case material   |Aluminum/Glass                         |Stainless steel/Glass              |
+|Band material   |Fluoroelastomer                        |Silicone                           |
+|Dimensions      |44 mm (44 mm x 38 mm 10.7 mm)          |40 mm (39.5 mm x 39.5 mm x 12.5 mm)|
+|Weight          |36.7g                                  |49g                                |
+|Battery life    |Up to 18 hours                         |Up to 25 days                      |
+|Water resistance|50 m                                   |50 m                               |
+|Steps tracking  |Continuous                             |Continuous                         |
 
 Apple also sells a smaller (40 mm) version for $399, but I prefer the look of a larger watch. The Steel HR Sport comes in only one size (40 mm).
 

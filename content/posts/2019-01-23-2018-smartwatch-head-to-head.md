@@ -11,7 +11,7 @@ __2018 Apple Watch Nike+ Series 4 (44 mm)__. Apple's device sports a beautiful, 
 
 __2018 Withings Steel HR Sport (40 mm)__. Withings bills the Steel HR Sport as a hybrid smartwatch; i.e., it's _mostly_ an analog face, and won't be able to do most of the things Apple Watch does. However, it's supposed to be health-focused, so heart rate sensing and step tracking? Check.
 
-![The watches, side by side.](/2019-01-23-the-watches-side-by-side.jpg)
+![The watches, side by side.](/2019-01-the-watches-side-by-side.jpg)
 
 ## Companions
 

@@ -1,5 +1,5 @@
 ---
-title: "Oracle: Cleaning up SYS_EXPORT_SCHEMA_xx jobs"
+title: Cleaning up Oracle SYS_EXPORT_SCHEMA_xx jobs
 date: 2017-10-09T08:47:33+00:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified Associate"
+title: AWS Certified Associate
 date: 2018-04-18T07:22:50+00:00
 ---
 

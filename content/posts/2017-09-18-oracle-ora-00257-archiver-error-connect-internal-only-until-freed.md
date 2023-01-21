@@ -1,5 +1,5 @@
 ---
-title: "Oracle: ORA-00257 archiver error. Connect internal only, until freed"
+title: Oracle ORA-00257 archiver error. Connect internal only, until freed
 date: 2017-09-18T07:54:13+00:00
 ---
 

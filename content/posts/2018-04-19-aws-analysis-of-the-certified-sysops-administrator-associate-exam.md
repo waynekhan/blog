@@ -1,13 +1,13 @@
 ---
-title: "AWS: Analysis of the Certified SysOps Administrator - Associate exam"
+title: Analysis of the AWS Certified SysOps Administrator - Associate exam
 date: 2018-04-19T01:10:07+00:00
 ---
 
 I recently became [fully AWS certified]({{< ref "2018-04-18-aws-certified-associate" >}}) (at the Associate Level), most recently passing the the SysOps Administrator - Associate exam at my third attempt.
 
-1. In late 2016, I failed with a score of 61% (or  67%). It was my first failure -- I deleted the "unsuccessful" notification email in a fit of rage;
-2. In early 2018, I failed with a score of 71%;
-3. In April 2018, I passed with a score of 80%.
+1. In late 2016, I failed with a score of 61% (or 67%). It was my first failure -- I deleted the "unsuccessful" notification email in a fit of rage;
+1. In early 2018, I failed with a score of 71%;
+1. In April 2018, I passed with a score of 80%.
 
 My experience was that the Certified SysOps Administrator - Associate exam was the toughest of the lot. In the table below, I compare the weighted scores between attempts #2 and #3 for individual domains:
 

@@ -1,5 +1,5 @@
 ---
-title: "AWS: Solutions Architect Professional (SAP) study notes"
+title: AWS Solutions Architect Professional (SAP) study notes
 date: 2018-07-17T10:24:23+00:00
 ---
 
@@ -156,4 +156,3 @@ Overall Score: 75%
 * VPC tenancy (default vs dedicated) and its impact on EC2 instances;
 * Route table (created by default), subnet to AZ (1:1), private vs public subnets, assign a public IP within a public subnet to make an instance internet-facing (behind an ELB also works), 5 reserved IPs per subnet (.0-.3, .255), CIDR block; "local" route within a VPC, IGW to VPC (1:1), route table (for n subnets), IGW/NAT target (for destination 0.0.0.0/0) route, SGs can span multiple subnets but not the other way around, NAT instance disable source/destination check, VPC peering: use private IPs to address instances within the same Region (50-125 VPCs), 1:1 relationship, private DNS names won't resolve, routes/SGs/NACLs config required on both ends, multicast vs unicast?;
 * WAF, managed layer 7 sandwich;
-

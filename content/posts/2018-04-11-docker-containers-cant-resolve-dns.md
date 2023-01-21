@@ -1,5 +1,5 @@
 ---
-title: "Docker containers can't resolve DNS"
+title: Docker containers can't resolve DNS
 date: 2018-04-11T06:24:08+00:00
 ---
 

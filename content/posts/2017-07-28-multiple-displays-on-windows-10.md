@@ -1,5 +1,5 @@
 ---
-title: "Windows 10: Multiple displays"
+title: Multiple displays on Windows 10
 date: 2017-07-28T02:38:58+00:00
 ---
 

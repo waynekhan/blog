@@ -1,5 +1,5 @@
 ---
-title: "AWS: DevOps Pro study notes"
+title: AWS DevOps Pro study notes
 date: 2018-06-04T10:50:52+00:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ORA-24454: client host name is not set when connecting from Ubuntu instance on AWS EC2"
+title: ORA-24454 client host name is not set when connecting from Ubuntu instance on AWS EC2
 date: 2017-07-24T04:28:49+00:00
 ---
 

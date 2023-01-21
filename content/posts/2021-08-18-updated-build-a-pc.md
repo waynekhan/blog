@@ -1,5 +1,5 @@
 ---
-title: "Updated: Build a PC"
+title: Updated Build a PC
 date: 2021-08-18T00:00:00+00:00
 ---
 

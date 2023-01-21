@@ -1,5 +1,5 @@
 ---
-title: "Linux: Ifconfig and its replacement"
+title: Ifconfig and its replacement
 date: 2017-08-31T05:16:54+00:00
 ---
 

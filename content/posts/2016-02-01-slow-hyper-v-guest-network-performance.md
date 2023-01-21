@@ -1,5 +1,5 @@
 ---
-title: "Hyper-V: Slow Guest Network Performance"
+title: Slow Hyper-V Guest Network Performance
 date: 2016-02-01T01:58:05+00:00
 ---
 

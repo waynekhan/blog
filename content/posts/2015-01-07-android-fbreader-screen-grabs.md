@@ -1,5 +1,5 @@
 ---
-title: "Android: FBreader screen grabs"
+title: Android FBreader screen grabs
 date: 2015-01-07T11:37:00+00:00
 ---
 

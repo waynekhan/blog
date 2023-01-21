@@ -6,7 +6,6 @@ theme: loveit
 params:
   app:
     title: Wayne writes
-    noFavicon: true
 
   footer:
     hugo: False

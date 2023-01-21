@@ -1,31 +1,33 @@
 baseURL: https://blog.waynekhan.net/
 languageCode: en-us
+title: Wayne writes
 theme: loveit
 
 params:
   app:
-    title: Wayne's writing
+    title: Wayne writes
+    noFavicon: true
 
   footer:
-    hugo: false
+    hugo: False
     since: 2008
 
   header:
     title:
-      name: Wayne's writing
+      name: Wayne writes
 
   home:
     profile:
       subtitle: Hello, World!
 
   page:
-    rssFullText: true
+    rssFullText: True
     share:
-      enable: false
+      enable: False
 
   social:
     GitHub: waynekhan
     Linkedin: waynekhan
 
-  title: Wayne's words
-  description: Wayne writes, mostly to himself.
+  title: Wayne writes
+  description: I create (and update) posts occasionally, mostly for myself then

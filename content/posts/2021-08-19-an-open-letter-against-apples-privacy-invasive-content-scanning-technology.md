@@ -1,9 +1,9 @@
 ---
-title: "RE: An open letter gainst Apple's privacy-invasive content-scanning technology"
+title: An open letter against Apple's privacy-invasive content-scanning technology
 date: 2021-08-19T00:00:00+00:00
 ---
 
-![An Apple fanboy in the style of Vincent van Gogh](/2023-01-19-apple-fanboy-in-the-style-of-vincent-van-gogh.png)
+![An Apple fanboy in the style of Vincent van Gogh](/2023-01-apple-fanboy-in-the-style-of-vincent-van-gogh.png)
 
 I've been an Apple fanboy since the 2010s or so. It's not that long a time a time, but I've always loved my Macs, iPhones, and iWatches.
 

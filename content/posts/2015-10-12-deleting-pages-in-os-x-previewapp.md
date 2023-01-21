@@ -1,5 +1,5 @@
 ---
-title: "Mac: Deleting pages in Preview.app"
+title: Deleting pages in OS X Preview.app
 date: 2015-10-12T04:53:33+00:00
 ---
 

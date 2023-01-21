@@ -1,5 +1,5 @@
 ---
-title: "CentOS: Forced shutdown"
+title: CentOS forced shutdown
 date: 2017-11-24T01:42:52+00:00
 ---
 
@@ -16,5 +16,5 @@ New disks are incoming as I type this, we'll have to keep a close look on this d
 
 ## References
 
-* https://www.linuxquestions.org/questions/linux-newbie-8/input-output-error-222152/
-* https://en.wikipedia.org/wiki/Magic\_SysRq\_key
+* [https://www.linuxquestions.org/questions/linux-newbie-8/input-output-error-222152/](https://www.linuxquestions.org/questions/linux-newbie-8/input-output-error-222152/)
+* [https://en.wikipedia.org/wiki/Magic_SysRq_key](https://en.wikipedia.org/wiki/Magic_SysRq_key)

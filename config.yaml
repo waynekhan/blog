@@ -8,7 +8,7 @@ params:
     title: Wayne writes
 
   footer:
-    hugo: False
+    hugo: false
     since: 2008
 
   header:
@@ -20,9 +20,9 @@ params:
       subtitle: Hello, World!
 
   page:
-    rssFullText: True
+    rssFullText: true
     share:
-      enable: False
+      enable: false
 
   social:
     GitHub: waynekhan

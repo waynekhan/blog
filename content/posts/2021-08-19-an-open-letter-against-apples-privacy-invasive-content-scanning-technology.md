@@ -1,6 +1,7 @@
 ---
 title: An open letter against Apple's privacy-invasive content-scanning technology
 date: 2021-08-19T00:00:00+00:00
+draft: true
 ---
 
 ![An Apple fanboy in the style of Vincent van Gogh](/2023-01-apple-fanboy-in-the-style-of-vincent-van-gogh.png)

@@ -1,7 +1,8 @@
 baseURL: https://blog.waynekhan.net/
+enableRobotsTXT: true
 languageCode: en-us
-title: Wayne writes
 theme: loveit
+title: Wayne writes
 
 params:
   app:

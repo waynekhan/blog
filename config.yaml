@@ -5,7 +5,7 @@ theme: loveit
 
 params:
   app:
-    title: Wayne writes
+    title: Wayne Khan
 
   footer:
     hugo: false
@@ -13,7 +13,7 @@ params:
 
   header:
     title:
-      name: Wayne writes
+      name: Wayne Khan
 
   home:
     profile:
@@ -25,8 +25,8 @@ params:
       enable: false
 
   social:
-    GitHub: waynekhan
+    GitLab: waynekhan
     Linkedin: waynekhan
 
   title: Wayne writes
-  description: I create (and update) posts occasionally, mostly for myself then
+  description: I write very occasionally, mostly as a note to self but it might be useful for you too

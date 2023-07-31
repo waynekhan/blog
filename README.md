@@ -1,8 +1,4 @@
-# README
-
-This is Wayne's writing then.
-
-## Writing locally
+# Writing
 
 ```text
 hugo server \
@@ -14,6 +10,6 @@ hugo server \
 
 Also see [hugo server](https://gohugo.io/commands/hugo_server/).
 
-## Deploying publicly
+# Publishing
 
 See [Deploy with Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages).

@@ -1,6 +1,6 @@
 ---
 title: Apple Event - September 12
-date: 2023-09-13T09:01:00+08:00
+date: 2023-09-13T05:40:55+08:00
 ---
 
 YouTube video: [Link](https://www.youtube.com/watch?v=ZiP1l7jlIIA)

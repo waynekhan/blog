@@ -5,11 +5,15 @@ date: 2023-09-13T05:40:55+08:00
 
 YouTube video: [Link](https://www.youtube.com/watch?v=ZiP1l7jlIIA)
 
-* "Happy birthday" video. [That "thank you" song, real catchy.]
-* Today is all about Apple Watch and iPhone.
-* Recap about the new Macs (the Studio, the Pro, and the 15" MacBook Air):
-  * Much flexing about the 15.
-  * Vision Pro, ships "early next year". [I'd forgotten, got excited all over again!]
+"Happy birthday" video. [That "thank you" song, real catchy.]
+
+Today is all about Apple Watch and iPhone.
+
+Recap about the new Macs (the Studio, the Pro, and the 15" MacBook Air).
+
+Much flexing about the 15, I feel like.
+
+Vision Pro, ships "early next year". [I'd forgotten, got excited all over again!]
 
 # Watch Series 9
 

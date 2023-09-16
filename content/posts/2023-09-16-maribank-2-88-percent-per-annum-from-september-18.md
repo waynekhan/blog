@@ -1,5 +1,5 @@
 ---
-title: MariBank 2.88% from September 18
+title: MariBank 2.88% per annum from September 18
 date: 2023-09-16T13:08:39+08:00
 ---
 

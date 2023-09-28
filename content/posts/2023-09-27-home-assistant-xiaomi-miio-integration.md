@@ -1,10 +1,19 @@
-# README
+---
+title: Home Assistant's Xiaomi Miio integration
+date: 2023-09-27T08:57:59+08:00
+---
 
-## [Xiaomi Miio](https://www.home-assistant.io/integrations/xiaomi_miio)
+[Xiaomi Miio](https://www.home-assistant.io/integrations/xiaomi_miio) is an integration for [Home Assistant](https://www.home-assistant.io), an open-source home automation software. It is the link between Home Assistant itself, and your Xiaomi smart devices.
 
-Some models can't (yet) be identified by this integration, and so I tried using instead the Model ID listed in the rightmost table column below, and it worked; e.g.,
+Except I don't want my network traffic routed to some server up in China or wherever when I'm at home, and the device itself is at home, as it makes for a meaningfully longer turnaround time, and is probably a privacy hole too. (The next step is cutting off "phone home" traffic from these devices, but story for another day.)
 
-I'll probably continue exploring alternative model IDs; for now it's just my new air purifiers then:
+I have 6 of these smart devices, 2 of which are air purifiers of the same model (ID). Unfortunately, only the vacuum is supported out of the box, and I really wanted to be able to manage my air purifiers via Home Assistant.
+
+At the "unsupported model" dialog, I tried using instead the Model ID listed in the rightmost table column below, and it worked; e.g.,
+
+![Air purifier controls](/2023-09-27-xiaomi-miio-zhimi-airp-va2.png)
+
+I'll probably continue exploring alternative model IDs, but just the air purifiers for now:
 
 |Name|Model ID|Alt. Model ID
 |-|-|-

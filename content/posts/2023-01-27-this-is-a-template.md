@@ -4,11 +4,11 @@ date: 2023-01-27T09:01:00+08:00
 draft: true
 ---
 
-FIXME: This is some content.
+This is a draft.
 
-And this is a table then:
+And this is a table:
 
-|            |Part                                            |Price |
-|------------|------------------------------------------------|------|
-|GPU         |MSI GTX 1650 SUPER VENTUS XS OC 4GB             |259   |
-|CPU         |AMD Ryzen 3 3300X                               |181   |
+| |Part|Price
+|-|-|-
+|GPU|MSI GTX 1650 SUPER VENTUS XS OC 4GB|259
+|CPU|AMD Ryzen 3 3300X|181

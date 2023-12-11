@@ -1,4 +1,12 @@
-# Writing
+# README
+
+## Download submodule theme
+
+```text
+git submodule update  # https://stackoverflow.com/a/43693892
+```
+
+## Writing
 
 ```text
 hugo server \
@@ -10,6 +18,6 @@ hugo server \
 
 Also see [hugo server](https://gohugo.io/commands/hugo_server/).
 
-# Publishing
+## Publishing
 
 See [Deploy with Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages).

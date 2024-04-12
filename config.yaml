@@ -9,7 +9,7 @@ params:
     title: Wayne Khan
 
   footer:
-    hugo: false
+    hugo: true
     since: 2008
 
   header:
@@ -18,16 +18,16 @@ params:
 
   home:
     profile:
-      subtitle: Hello, World!
+      subtitle: Hello, world!
 
   page:
     rssFullText: true
     share:
-      enable: false
+      enable: true
 
   social:
-    GitLab: waynekhan
+    GitHub: waynekhan
     Linkedin: waynekhan
 
   title: Wayne writes
-  description: I write very occasionally, mostly as a note to self but it might be useful for you too
+  description: I seldom write. When I do, it's mostly as a note to self. Might be useful for you, too?

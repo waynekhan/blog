@@ -3,9 +3,9 @@ title: Updated Build a PC
 date: 2024-04-15T00:00:00+00:00
 ---
 
-During the COVID-19 pandemic, I managed to build a PC ( <ref "2020-05-19-build-a-pc" > ), with some updates ( < ref "2021-08-18-build-a-pc" > ).
+During the COVID-19 pandemic, I managed to [build a PC]({{< ref "2020-05-19-build-a-pc" >}}), [with some updates]({{<ref "2021-08-18-updated-build-a-pc" >}}).
 
-For whatever reason, my GPU and motherboard died at some point, and had to be replaced. Recently, it couldn't even power on anymore. I gave up, liquidated almost* everything except my inputs/outputs.
+For whatever reason, my GPU and motherboard died at some point, and had to be replaced. Recently, it couldn't even power on anymore. I gave up, liquidated almost everything except my inputs/outputs.
 
 Here's the revised, final table with a new column for the selling price:
 

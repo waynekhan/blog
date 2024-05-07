@@ -9,7 +9,7 @@ Tim Cook's tweet has made it pretty clear that there might be at least a new App
 
 Ref: [https://twitter.com/tim_cook/status/1782785458881302714](https://twitter.com/tim_cook/status/1782785458881302714)
 
-At home, we share a 2nd-generation 10.5-inch iPad Pro that I purchased as a refurbished unit in 2018; i.e., a 2017 iDevice that still works well to this day. It's been awhile since 2018, preceding the time I started keeping a record of expenses; I believe it alone cost about 550 USD at the time, and so excellent, excellent value given its longevity
+At home, we share a 2nd-generation 10.5-inch iPad Pro that I purchased as a refurbished unit in 2018; i.e., a 2017 iDevice that still works well to this day. It's been awhile since 2018, preceding the time I started keeping a record of expenses; I believe it alone cost about 550 USD at the time, and so excellent, excellent value given its longevity.
 
  Now the display isn’t OLED, but it's ProMotion (120-1Hz variable refresh rate), there's 4 -- not 2 -- speakers, and runs most, if not all, of the iOS apps we use. It still charges via Lightning, but I completely, happily, skipped over all subsequent generations of iPads, as it's a distant 3rd Apple computer(ish), far behind, of course, Macs and iPhones.
 

@@ -3,7 +3,7 @@ title: Updated Build a PC
 date: 2024-04-15T00:00:00+00:00
 ---
 
-During the COVID-19 pandemic, I somehow managed to build a PC {{< ref "2020-05-19-build-a-pc" >}}, followed by a minor refresh in 2021 {{< ref "2021-08-18-updated-build-a-pc" >}}. Along the way, my GPU and motherboard died and had to be replaced at some point, hence the listing of 2 GPUs and motherboards below.
+During the COVID-19 pandemic, I somehow managed to [build a PC]({{< ref "2020-05-19-build-a-pc" >}}), followed by [a minor refresh in 2021]({{< ref "2021-08-18-updated-build-a-pc" >}}). Along the way, my GPU and motherboard died and had to be replaced at some point, hence the listing of 2 GPUs and motherboards below.
 
 Recently, I couldn't turn it on anymore, and it wasn't the power supply, so it might have been the motherboard again. I got fed up, sold most of my parts. Here's the revised table with a new column for the selling price, or "TBD" for items that have yet to be sold, if ever:
 

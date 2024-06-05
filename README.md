@@ -3,7 +3,9 @@
 ## Download submodule theme
 
 ```text
-git submodule update  # https://stackoverflow.com/a/43693892
+# https://git-scm.com/book/en/v2/Git-Tools-Submodules#_cloning_submodules
+git submodule init && \
+  git submodule update
 ```
 
 ## Writing
@@ -12,7 +14,7 @@ git submodule update  # https://stackoverflow.com/a/43693892
 hugo server \
   --buildDrafts -D \  # Also render content set to draft:true
   --buildFuture -F \  # Also render content with a date (or publishDate) set in the future
-  --verbose \         # Verbose output
+  --logLevel info  \  # Display information, warning, and error messages
   --watch             # Watch the filesystem for changes
 ```
 

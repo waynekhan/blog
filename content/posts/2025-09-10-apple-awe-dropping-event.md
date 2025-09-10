@@ -1,43 +1,23 @@
 ---
-date: 2025-02-22T04:35:59+08:00
+date: 2025-09-10T20:13:34+08:00
 draft: false
 params:
   author: Wayne Khan
-title: iPhone 16e
+title: Apple Awe Dropping Event
 ---
 
+AirPods
 
+![Pro 3 bento](/2025-09-09-airpods-pro-3-bento.png)
 
-In the flurry of (my own personal) happenings this past week, I completely forgot that [Tim Apple](https://x.com/tim_cook/status/1890068457825394918) posted a teaser about new hardware. Belatedly, I watched [the video](https://www.youtube.com/watch?v=mFuyX1XgJFg).
+Watch
 
-For me, the most exciting thing is probably the bundling of their in-house modem, marketed as "C1":
+![Series 11](/2025-09-10-apple-watch-series-11-bento.png)
+![SE 3](/2025-09-10-apple-watch-se-3-bento.png)
+![Ultra 3](/2025-09-10-airpods-pro-3-bento.png)
 
-![iPhone 16e bento](/2025-02-22-iphone-16e-bento.png)
+iPhone
 
-USD pricing:
-
-![iPhones 16 lineup](/2025-02-22-iphones-16-lineup.png)
-
-I suppose the "e" means everyone; i.e., the iPhone for _everyone_. Nice.
-
-Update: I like the [Compare](https://www.apple.com/iphone/compare/?modelList=iphone-16e,iphone-16,iphone-16-pro) feature on the current lineup. Of course, 16e < 16 < 16 Pro. It's also an excellent compare to the now-discontinued iPhone SE that my mum uses, and my old iPhone 11, which, in hindsight, was a bad purchase.
-
-Update 2: [Daring Fireball](https://daringfireball.net/2025/02/thoughts_and_observations_on_todays_iphone_16e_announcement) has some interesting analysis on the 16e:
-
-> No MagSafe
-
-So there's (slow) inductive charging, but no MagSafe. It's probably _cleaner_ to have no inductive charging whatsoever. It's probably OK for those that have always plugged their phone into a wired charger since forever; e.g., my mum probably doesn't know her iPhone SE can be inductively charged.
-
-> Battery life is better than iPhone 16
-
-Very nice, I did not notice this.
-
-> Doesn’t support Thread networking
-
-As mentioned above, I still have a mostly-abandoned iPhone 11. IF I recall correctly, even that has a Thread radio, but I can count with no (zero!) hands whatsoever the number of times I've used this. Matter/the Thread protocol continues to be a joke, so it's probably fine that the 16e (or more precisely: the c1) doesn't have it.
-
-> Comparison to the iPhone 15
-
-I hadn't thought of this, but as the iPhone 15 costs $100 more, it's almost a no-brainer if one were a bargain hunter, and hadn't upgraded to anything above iPhone 15 Pro.
-
-\- Wayne
+![iPhone 17](/2025-09-10-iphone-17-bento.png)
+![iPhone Air](/2025-09-10-iphone-air-bento.png)
+![iPhone 17 Pro](/2025-09-10-iphone-17-pro-bento.png)

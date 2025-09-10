@@ -8,7 +8,7 @@ title: Apple Awe Dropping Event
 
 AirPods
 
-![Pro 3 bento](/2025-09-09-airpods-pro-3-bento.png)
+![Pro 3 bento](/2025-09-10-airpods-pro-3-bento.png)
 
 Watch
 

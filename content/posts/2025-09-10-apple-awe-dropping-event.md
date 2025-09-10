@@ -6,6 +6,8 @@ params:
 title: iPhone 16e
 ---
 
+
+
 In the flurry of (my own personal) happenings this past week, I completely forgot that [Tim Apple](https://x.com/tim_cook/status/1890068457825394918) posted a teaser about new hardware. Belatedly, I watched [the video](https://www.youtube.com/watch?v=mFuyX1XgJFg).
 
 For me, the most exciting thing is probably the bundling of their in-house modem, marketed as "C1":

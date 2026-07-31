@@ -3,7 +3,7 @@ date: 2025-09-10T20:13:34+08:00
 draft: false
 params:
   author: Wayne Khan
-title: Apple Awe Dropping Event
+title: Apple "Awe Dropping" Event
 ---
 
 AirPods

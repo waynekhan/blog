@@ -6,17 +6,17 @@ params:
 title: Apple "Awe Dropping" Event
 ---
 
-# AirPods (Pro 3)
+## AirPods (Pro 3)
 
 ![Pro 3 bento](/2025-09-10-airpods-pro-3-bento.png)
 
-# Apple Watch (SE 3, Series 11, Ultra 3)
+## Apple Watch (SE 3, Series 11, Ultra 3)
 
 ![Series 11](/2025-09-10-apple-watch-series-11-bento.png)
 ![SE 3](/2025-09-10-apple-watch-se-3-bento.png)
 ![Ultra 3](/2025-09-10-apple-watch-ultra-3-bento.png)
 
-# iPhone (17, Air, 17 Pro)
+## iPhone (17, Air, 17 Pro)
 
 ![iPhone 17](/2025-09-10-iphone-17-bento.png)
 ![iPhone Air](/2025-09-10-iphone-air-bento.png)

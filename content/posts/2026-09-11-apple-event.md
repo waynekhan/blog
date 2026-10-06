@@ -6,7 +6,7 @@ params:
 title: Apple Event
 ---
 
-To follow up on my [earlier post]({{< ref "2026-08-31-iphones-2027" >}}):
+To follow up on my [earlier post]({{< ref "2026-08-21-iphones-2027" >}}):
 
 * ~iPhone "Fold" (2027)~ iPhone Duo from 2000 USD:
 * ~iPhone Pro (20207)~ iPhone 18 Pro from 1200 USD:

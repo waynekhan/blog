@@ -6,15 +6,17 @@ params:
 title: Apple Event
 ---
 
-To follow up on my [earlier post]({{< ref "2026-08-21-iphones-2027" >}}):
+Follow up on my [earlier post]({{< ref "2026-08-21-iphones-2027" >}}).
 
-* ~iPhone "Fold" (2027)~ iPhone Duo from 2000 USD:
-* ~iPhone Pro (20207)~ iPhone 18 Pro from 1200 USD:
+They call it the iPhone Duo, and priced from 2000 USD:
 
 ![iPhone Fold](/2026-09-11-iphone-duo-from-2000.jpg)
+
+They call it iPhone 18 Pro, and priced from 1200 USD:
+
 ![iPhone 18 Pro](/2026-09-11-iphone-18-pro-from-1200.jpg)
 
-And here's the pricing on the current iPhones lineup:
+Here's the pricing on the current iPhones lineup then:
 
 |               | Released | Price     | Previous Price |
 |---------------|----------|-----------|----------------|
@@ -26,7 +28,9 @@ And here's the pricing on the current iPhones lineup:
 
 Such is RAMageddon...
 
-Oh, and there's new Apple Watches (Ultra 4, Series 12), AirPods 5, as well as a redesigned Health app. I continue to enjoy their bento boxes:
+Oh, and there's new Apple Watches (Ultra 4, Series 12), AirPods 5, as well as a redesigned Health app.
+
+I continue to enjoy their bento boxes:
 
 ## iPhones
 
